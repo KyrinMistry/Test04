@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Quiz-Game",
+"dataUrl": "Friday02.data.unityweb",
+"wasmCodeUrl": "Friday02.wasm.code.unityweb",
+"wasmFrameworkUrl": "Friday02.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
